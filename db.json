@@ -3,13 +3,13 @@
         {
             "key": "a01",
             "name": "茅台资源",
-            "api": "https://mtzy.me/",
+            "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
             "active": true
         },
         {
             "key": "a02",
             "name": "极速资源",
-            "api": "https://jszy333.com/",
+            "api": "https://jszyapi.com/api.php/provide/vod/at/json",
             "active": true
         }
        {
