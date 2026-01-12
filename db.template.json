@@ -1,0 +1,46 @@
+{
+    "sites": [
+        {
+            "key": "a01",
+            "name": "茅台资源",
+            "api": "https://mtzy.me/",
+            "active": true
+        },
+        {
+            "key": "a02",
+            "name": "极速资源",
+            "api": "https://jszy333.com/",
+            "active": true
+        }
+       {
+            "key": "a03",
+            "name": "豆瓣资源",
+            "api": "https://dbzy.tv/",
+            "active": true
+        }
+       {
+            "key": "a04",
+            "name": "索尼资源",
+            "api": "https://suonizy.net/",
+            "active": true
+        }
+       {
+            "key": "a05",
+            "name": "OK资源",
+            "api": "https://okzyw.cc/",
+            "active": true
+        }
+      {
+            "key": "a06",
+            "name": "U酷资源",
+            "api": "https://ukuzy0.com/",
+            "active": true
+        }
+      {
+            "key": "a07",
+            "name": "金鹰资源",
+            "api": "http://jinyingzy.com/",
+            "active": true
+        }
+    ]
+}
