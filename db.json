@@ -71,13 +71,13 @@
       "name": "CK资源",
       "api": "https://ckzy.me/api.php/provide/vod/",
       "active": true
-    }，
+    },
     {
-      "key": "zyku_1080"，
+      "key": "zyku_1080",
       "name": "1080资源库",
-      "api": "https://api.1080zyku.com/inc/api_mac10.php/"，
+      "api": "https://api.1080zyku.com/inc/api_mac10.php/",
       "active": true
-    }，
+    },
     {
       "key": "piaoling",
       "name": "飘零资源",
@@ -89,7 +89,7 @@
       "name": "閃電资源",
       "api": "https://sdzyapi.com/api.php/provide/vod/",
       "active": true
-    }，
+    },
     {
       "key": "jinying",
       "name": "金鹰资源",
@@ -107,7 +107,7 @@
       "name": "索尼资源",
       "api": "https://suoniapi.com/api.php/provide/vod/",
       "active": true
-    }，
+    },
     {
       "key": "subo",
       "name": "速播资源",
@@ -203,7 +203,7 @@
       "name": "天涯资源",
       "api": "https://tyyszy.com/api.php/provide/vod/",
       "active": true
-    }，
+    },
     {
       "key": "baofeng",
       "name": "暴风资源",
@@ -237,7 +237,7 @@
     {
       "key": "qiyi",
       "name": "爱奇艺资源",
-      "api": "https://iqiyizyapi.com/api.php/provide/vod"，
+      "api": "https://iqiyizyapi.com/api.php/provide/vod",
       "active": true
     },
     {
