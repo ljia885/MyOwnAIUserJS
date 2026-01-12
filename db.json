@@ -1,9 +1,9 @@
 {
   "sites": [
     {
-      "key": "haohua",
-      "name": "豪华资源",
-      "api": "https://hhzyapi.com/api.php/provide/vod/",
+      "key": "jianan",
+      "name": "建安资源",
+      "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod/",
       "active": true
     },
     {
@@ -71,13 +71,13 @@
       "name": "CK资源",
       "api": "https://ckzy.me/api.php/provide/vod/",
       "active": true
-    },
+    }，
     {
-      "key": "zyku_1080",
+      "key": "zyku_1080"，
       "name": "1080资源库",
-      "api": "https://api.1080zyku.com/inc/api_mac10.php/",
+      "api": "https://api.1080zyku.com/inc/api_mac10.php/"，
       "active": true
-    },
+    }，
     {
       "key": "piaoling",
       "name": "飘零资源",
@@ -89,7 +89,7 @@
       "name": "閃電资源",
       "api": "https://sdzyapi.com/api.php/provide/vod/",
       "active": true
-    },
+    }，
     {
       "key": "jinying",
       "name": "金鹰资源",
@@ -107,7 +107,7 @@
       "name": "索尼资源",
       "api": "https://suoniapi.com/api.php/provide/vod/",
       "active": true
-    },
+    }，
     {
       "key": "subo",
       "name": "速播资源",
@@ -203,7 +203,7 @@
       "name": "天涯资源",
       "api": "https://tyyszy.com/api.php/provide/vod/",
       "active": true
-    },
+    }，
     {
       "key": "baofeng",
       "name": "暴风资源",
@@ -232,6 +232,66 @@
       "key": "feifan",
       "name": "非凡影视",
       "api": "http://ffzy5.tv/api.php/provide/vod/",
+      "active": true
+    }
+    {
+      "key": "qiyi",
+      "name": "爱奇艺资源",
+      "api": "https://iqiyizyapi.com/api.php/provide/vod"，
+      "active": true
+    },
+    {
+      "key": "idan",
+      "name": "艾旦影视",
+      "api": "https://pz.v88.qzz.io/?url=https://lovedan.net/api.php/provide/vod",
+      "active": true
+    }
+    {
+      "key": "789",
+      "name": "789资源",
+      "api": "https://www.caiji.cyou/api.php/provide/vod/",
+      "active": true
+    },
+    {
+      "key": "haohua1",
+      "name": "豪华资源",
+      "api": "https://pz.168188.dpdns.org/?url=https://hhzyapi.com/api.php/provide/vod",
+      "active": true
+    }
+    {
+      "key": "lzzy",
+      "name": "量子资源",
+      "api": "https://cj.lzcaiji.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "tfys",
+      "name": "听风影视",
+      "api": "https://gctf.tfdh.top/api.php/provide/vod",
+      "active": true
+    }
+    {
+      "key": "maoyan",
+      "name": "猫眼资源",
+      "api": "https://api.maoyanapi.top/api.php/provide/vod/",
+      "active": true
+    },
+    {
+      "key": "hqzy",
+      "name": "花旗资源",
+      "api": "https://www.seacms.org/api.php/provide/vod/",
+      "active": true
+    }
+    {
+      "key": "sdzy",
+      "name": "舒度资源",
+      "api": "http://gzy.69mu.cn/api.php/provide/vod/",
+      "active": true
+    },
+    {
+      "key": "jczy",
+      "name": "金蟾资源",
+      "api": "https://zy.jinchancaiji.com/api.php/provide/vod/",
       "active": true
     }
   ]
