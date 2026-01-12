@@ -1,45 +1,75 @@
 {
     "sites": [
         {
-            "key": "a01",
+            "key": "mtzy",
             "name": "茅台资源",
-            "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
+            "api": "https://caiji.maotaizy.cc/api.php/provide/vod/",
             "active": true
         },
         {
-            "key": "a02",
+            "key": "jszy",
             "name": "极速资源",
-            "api": "https://jszyapi.com/api.php/provide/vod/at/json",
+            "api": "https://jszyapi.com/api.php/provide/vod/",
             "active": true
         }
        {
-            "key": "a03",
+            "key": "dbzy",
             "name": "豆瓣资源",
-            "api": "https://dbzy.tv/",
+            "api": "https://dbzy.tv//api.php/provide/vod/",
             "active": true
         }
        {
-            "key": "a04",
+            "key": "snzy",
             "name": "索尼资源",
-            "api": "https://suonizy.net/",
+            "api": "https://suonizy.net/api.php/provide/vod/",
             "active": true
         }
        {
-            "key": "a05",
+            "key": "okzy",
             "name": "OK资源",
-            "api": "https://okzyw.cc/",
+            "api": "https://api.okzyw.net/api.php/provide/vod/",
             "active": true
         }
       {
-            "key": "a06",
+            "key": "ukzy",
             "name": "U酷资源",
-            "api": "https://ukuzy0.com/",
+            "api": "https://api.ukuapi88.com/api.php/provide/vod/",
             "active": true
         }
       {
-            "key": "a07",
+            "key": "jyzy",
             "name": "金鹰资源",
-            "api": "http://jinyingzy.com/",
+            "api": "https://jyzyapi.com/provide/vod/",
+            "active": true
+        }
+        {
+            "key": "ffzy",
+            "name": "非凡资源",
+            "api": "https://api.ffzyapi.com/api.php/provide/vod",
+            "active": true
+        }
+        {
+            "key": "kczy",
+            "name": "快车资源",
+            "api": "https://caiji.kuaichezy.org/api.php/provide/vod/",
+            "active": true
+        }
+        {
+            "key": "hnzy",
+            "name": "红牛资源",
+            "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+            "active": true
+        }
+        {
+            "key": "bdyzy",
+            "name": "百度资源",
+            "api": "https://api.apibdzy.com/api.php/provide/vod/",
+            "active": true
+        }
+        {
+            "key": "wjzy",
+            "name": "无尽资源",
+            "api": "https://api.wujinapi.com/api.php/provide/vod/",
             "active": true
         }
     ]
